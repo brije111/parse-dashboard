@@ -8,5 +8,15 @@
     "primaryBackgroundColor": "",
     "secondaryBackgroundColor": ""
   }],
-  "iconsFolder": "icons"
+  "iconsFolder": "icons",
+  "users": [
+{
+"user":"brije111@gmail.com",
+"pass":""
+},
+{
+"user":"brijesh@yahoo.com",
+"pass":""
+}
+]
 }
