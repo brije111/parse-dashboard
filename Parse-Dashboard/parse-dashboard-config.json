@@ -4,6 +4,7 @@
     "appId": "process.env.APP_ID||myAppId",
     "masterKey": "process.env.APP_ID||myMasterKey",
     "appName": "process.env.APP_NAME||myApp",
+    "supportedPushLocales": ["en", "ru", "fr"],
     "iconName": "",
     "primaryBackgroundColor": "",
     "secondaryBackgroundColor": ""
