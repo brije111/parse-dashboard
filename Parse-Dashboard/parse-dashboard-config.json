@@ -1,9 +1,9 @@
 {
   "apps": [{
     "serverURL": "http://parse-server-first.herokuapp.com/parse",
-    "appId": "myAppId",
-    "masterKey": "myMasterKey",
-    "appName": "myApp",
+    "appId": "process.env.APP_ID||myAppId",
+    "masterKey": "process.env.APP_ID||myMasterKey",
+    "appName": "process.env.APP_NAME||myApp",
     "iconName": "",
     "primaryBackgroundColor": "",
     "secondaryBackgroundColor": ""
