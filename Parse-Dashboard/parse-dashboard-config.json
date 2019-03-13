@@ -18,5 +18,6 @@
 "user":"brijesh@yahoo.com",
 "pass":""
 }
-]
+],
+  "trustProxy": 1
 }
