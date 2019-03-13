@@ -3,7 +3,7 @@
     "serverURL": "http://parse-server-first.herokuapp.com/parse",
     "appId": "process.env.APP_ID || myAppId",
     "masterKey": "process.env.MASTER_KEY || myMasterKey",
-    "appName": "process.env.APP_NAME || myApp",
+    "appName": "MyParseApp",
     "supportedPushLocales": ["en", "ru", "fr"],
     "iconName": "",
     "primaryBackgroundColor": "",
